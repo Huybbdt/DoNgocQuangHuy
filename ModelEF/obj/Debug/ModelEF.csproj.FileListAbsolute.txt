@@ -1,0 +1,32 @@
+D:\C#\LeAnhTuan\ModelEF\bin\Debug\ModelEF.dll.config
+D:\C#\LeAnhTuan\ModelEF\bin\Debug\ModelEF.dll
+D:\C#\LeAnhTuan\ModelEF\bin\Debug\ModelEF.pdb
+D:\C#\LeAnhTuan\ModelEF\bin\Debug\EntityFramework.dll
+D:\C#\LeAnhTuan\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\LeAnhTuan\ModelEF\bin\Debug\EntityFramework.xml
+D:\C#\LeAnhTuan\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\LeAnhTuan\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+D:\C#\LeAnhTuan\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+D:\C#\LeAnhTuan\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+D:\C#\LeAnhTuan\ModelEF\obj\Debug\ModelEF.dll
+D:\C#\LeAnhTuan\ModelEF\obj\Debug\ModelEF.pdb
+D:\C#\LeAnhTuan\ModelEF\bin\Debug\PagedList.dll
+D:\C#\LeAnhTuan\ModelEF\bin\Debug\PagedList.Mvc.dll
+D:\C#\LeAnhTuan\ModelEF\bin\Debug\PagedList.xml
+D:\C#\LeAnhTuan\ModelEF\bin\Debug\PagedList.Mvc.xml
+D:\Downloads\BT\New folder\LeAnhTuan\ModelEF\bin\Debug\ModelEF.dll.config
+D:\Downloads\BT\New folder\LeAnhTuan\ModelEF\bin\Debug\ModelEF.dll
+D:\Downloads\BT\New folder\LeAnhTuan\ModelEF\bin\Debug\ModelEF.pdb
+D:\Downloads\BT\New folder\LeAnhTuan\ModelEF\bin\Debug\EntityFramework.dll
+D:\Downloads\BT\New folder\LeAnhTuan\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\BT\New folder\LeAnhTuan\ModelEF\bin\Debug\PagedList.dll
+D:\Downloads\BT\New folder\LeAnhTuan\ModelEF\bin\Debug\PagedList.Mvc.dll
+D:\Downloads\BT\New folder\LeAnhTuan\ModelEF\bin\Debug\EntityFramework.xml
+D:\Downloads\BT\New folder\LeAnhTuan\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\BT\New folder\LeAnhTuan\ModelEF\bin\Debug\PagedList.xml
+D:\Downloads\BT\New folder\LeAnhTuan\ModelEF\bin\Debug\PagedList.Mvc.xml
+D:\Downloads\BT\New folder\LeAnhTuan\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+D:\Downloads\BT\New folder\LeAnhTuan\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+D:\Downloads\BT\New folder\LeAnhTuan\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+D:\Downloads\BT\New folder\LeAnhTuan\ModelEF\obj\Debug\ModelEF.dll
+D:\Downloads\BT\New folder\LeAnhTuan\ModelEF\obj\Debug\ModelEF.pdb

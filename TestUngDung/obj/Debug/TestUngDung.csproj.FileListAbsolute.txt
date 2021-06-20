@@ -1,0 +1,174 @@
+D:\C#\LeAnhTuan\TestUngDung\bin\TestUngDung.dll.config
+D:\C#\LeAnhTuan\TestUngDung\bin\TestUngDung.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\TestUngDung.pdb
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\csc.exe
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\csc.exe.config
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\csc.rsp
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\csi.exe
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\csi.exe.config
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\csi.rsp
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.AppContext.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.Console.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.IO.Compression.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.IO.Pipes.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.Security.AccessControl.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.Security.Claims.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.Security.Principal.Windows.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.ValueTuple.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\vbc.exe
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\vbc.exe.config
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\vbc.rsp
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\VBCSCompiler.exe
+D:\C#\LeAnhTuan\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+D:\C#\LeAnhTuan\TestUngDung\bin\Antlr3.Runtime.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\EntityFramework.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\EntityFramework.SqlServer.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\ModelEF.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\Newtonsoft.Json.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\System.Web.Helpers.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\System.Web.Mvc.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\System.Web.Optimization.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\System.Web.Razor.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\System.Web.WebPages.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\System.Web.WebPages.Razor.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\WebGrease.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\ModelEF.pdb
+D:\C#\LeAnhTuan\TestUngDung\bin\ModelEF.dll.config
+D:\C#\LeAnhTuan\TestUngDung\bin\EntityFramework.xml
+D:\C#\LeAnhTuan\TestUngDung\bin\EntityFramework.SqlServer.xml
+D:\C#\LeAnhTuan\TestUngDung\bin\System.Web.Helpers.xml
+D:\C#\LeAnhTuan\TestUngDung\bin\System.Web.Mvc.xml
+D:\C#\LeAnhTuan\TestUngDung\bin\System.Web.Optimization.xml
+D:\C#\LeAnhTuan\TestUngDung\bin\System.Web.Razor.xml
+D:\C#\LeAnhTuan\TestUngDung\bin\System.Web.WebPages.xml
+D:\C#\LeAnhTuan\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+D:\C#\LeAnhTuan\TestUngDung\bin\System.Web.WebPages.Razor.xml
+D:\C#\LeAnhTuan\TestUngDung\bin\Newtonsoft.Json.xml
+D:\C#\LeAnhTuan\TestUngDung\bin\Antlr3.Runtime.pdb
+D:\C#\LeAnhTuan\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#\LeAnhTuan\TestUngDung\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+D:\C#\LeAnhTuan\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+D:\C#\LeAnhTuan\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+D:\C#\LeAnhTuan\TestUngDung\obj\Debug\TestUngDung.dll
+D:\C#\LeAnhTuan\TestUngDung\obj\Debug\TestUngDung.pdb
+D:\C#\LeAnhTuan\TestUngDung\bin\PagedList.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\PagedList.Mvc.dll
+D:\C#\LeAnhTuan\TestUngDung\bin\PagedList.xml
+D:\C#\LeAnhTuan\TestUngDung\bin\PagedList.Mvc.xml
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\TestUngDung.dll.config
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\TestUngDung.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\TestUngDung.pdb
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\csc.exe
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\csc.exe.config
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\csc.rsp
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\csi.exe
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\csi.exe.config
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\csi.rsp
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.AppContext.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.Console.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.IO.Compression.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.IO.Pipes.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.Security.AccessControl.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.Security.Claims.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.ValueTuple.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\vbc.exe
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\vbc.exe.config
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\vbc.rsp
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\Antlr3.Runtime.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\EntityFramework.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\EntityFramework.SqlServer.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\ModelEF.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\Newtonsoft.Json.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\PagedList.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\PagedList.Mvc.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\System.Web.Helpers.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\System.Web.Mvc.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\System.Web.Optimization.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\System.Web.Razor.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\System.Web.WebPages.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\WebGrease.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\ModelEF.pdb
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\ModelEF.dll.config
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\EntityFramework.xml
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\EntityFramework.SqlServer.xml
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\PagedList.xml
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\PagedList.Mvc.xml
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\System.Web.Helpers.xml
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\System.Web.Mvc.xml
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\System.Web.Optimization.xml
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\System.Web.Razor.xml
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\System.Web.WebPages.xml
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\Newtonsoft.Json.xml
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\Antlr3.Runtime.pdb
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\obj\Debug\TestUngDung.dll
+D:\Downloads\BT\New folder\LeAnhTuan\TestUngDung\obj\Debug\TestUngDung.pdb
